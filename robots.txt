@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shihoshoshi.mozule.co.jp/sitemap.xml
