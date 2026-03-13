@@ -133,6 +133,11 @@ img {
 
 .recent { margin: 20px 0; }
 
+table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 15px; }
+th, td { border: 1px solid rgba(122,209,255,0.18); padding: 10px 12px; }
+th { background: rgba(122,209,255,0.08); font-weight: 700; }
+tr:nth-child(even) { background: rgba(122,209,255,0.03); }
+
 .author-box {
   margin-top: 28px;
   padding: 18px 20px;
