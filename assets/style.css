@@ -132,3 +132,22 @@ img {
 .cat-card h2 { font-size: 17px; margin: 0; }
 
 .recent { margin: 20px 0; }
+
+.author-box {
+  margin-top: 28px;
+  padding: 18px 20px;
+  border: 1px solid rgba(122, 209, 255, 0.25);
+  border-radius: 14px;
+  background: linear-gradient(135deg, rgba(122,209,255,0.06), rgba(255,209,102,0.04));
+}
+.author-label {
+  font-size: 12px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 6px;
+}
+.author-name { font-size: 16px; font-weight: 700; }
+.author-name a { color: var(--link); }
+.author-credentials { font-size: 14px; color: var(--muted); margin-top: 2px; }
+.author-note { font-size: 13px; color: var(--muted); margin-top: 8px; line-height: 1.6; }
